@@ -10,4 +10,4 @@ I am a runner, computer science PhD student, and StatBall enthusiast - but not n
 - 📫 How to reach me: elochang(at) u c s c . e d u
 - 🏃🏻‍♂️ Fun fact: I ran a half-marathon in 1 hour and 9 minutes (5:17 min/mile)! 
 
-!("Don't bail; the best of gold is at the bottom of barrels of crap" - Randy Pausch)[97416002-RNHI5706.JPG]
+!()[97416002-RNHI5706.JPG]
